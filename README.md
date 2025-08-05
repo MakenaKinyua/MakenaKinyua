@@ -1,9 +1,9 @@
 ## Hi there, I'm Makena🌸
 
-I am a data science and Machine Learning enthusiast and I am passionate about all things data with a background in  Economics, Statistics and Data Analysis 
+I am a data science and Machine Learning enthusiast and I am passionate about all things data. I come equipped with a background in  Economics, Statistics and Data Analysis. 
 
 
-Having worked on different learning and self projects, I have experience in data analytics; data cleaning, data wrangling and data visualization. 
+Having worked on different learning and personal projects, I have experience in data analytics; data cleaning, data wrangling and data visualization. 
 
 ---
 Skills🧮
