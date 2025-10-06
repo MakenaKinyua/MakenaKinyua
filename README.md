@@ -6,8 +6,8 @@ I am a data science and Machine Learning enthusiast and I am passionate about al
 Having worked on different learning and personal projects, I have experience in data analytics; data cleaning, data wrangling and data visualization. 
 
 ---
-Skills🧮
 
+Skills🧮
 
 Throughout my journey in data, I have gained skills working with different industry tools, software and services
 - Python, Pandas, Seaborn
@@ -17,9 +17,19 @@ Throughout my journey in data, I have gained skills working with different indus
 
 ---
 
+Projects🧱
+
+I have worked on several projects including:
+
+**Finance Agent** - Financial Educator AI agent
+**Customer Support Chatbot** - a chatbot that handles queries by users
+**RAG** - a retrieval augmented generation system
+
+---
+
 Currently🚀
 
-I am working my way towards building in Machine Learning and Artificial Intelligence. It is an interesting journey and you can read all about the things I am learning [here](https://dev.to/makenakinyua). 
+I am currently interning at LuxDev HQ, bulding in Data Science and Analytics, after successful completion of my training. I write about my journey and you can read all about the things I am working on [here](https://dev.to/makenakinyua). 
 
 I am open for collaboration opportunities to know more and grow.
 
