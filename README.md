@@ -22,7 +22,9 @@ Projects🧱
 I have worked on several projects including:
 
 **Finance Agent** - Financial Educator AI agent
+
 **Customer Support Chatbot** - a chatbot that handles queries by users
+
 **RAG** - a retrieval augmented generation system
 
 ---
